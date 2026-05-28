@@ -39,6 +39,7 @@ a{
     background-color: #1F2937;
     color: white;
     display: flex;
+    height: 450px;
 }
  
 .title .right{
